@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Express.js-404D59?style=flat"> 
   <img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js">
-  <img src="<img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js">"></br>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></br>
 </div>
 
 </br></br>
