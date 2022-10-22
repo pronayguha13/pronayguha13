@@ -33,6 +33,6 @@
 
 [<img src = "https://img.shields.io/badge/-Medium-ED8B00?style=social&logo=medium&logoColor=white">](https://medium.com/@pronay.guha)
 
-<br /><br/>
-
+<br />
+> ## Profile Streak:
 [![GitHub Streak](https://streak-stats.demolab.com?user=pronayguha13&theme=dark)](https://git.io/streak-stats)
