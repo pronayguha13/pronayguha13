@@ -18,7 +18,9 @@
 
 </br></br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pronayguha13&theme=dark)](https://git.io/streak-stats)
 [![Pronay's github stats](https://github-readme-stats.vercel.app/api?username=pronayguha13&show_icons=true&theme=radical)](https://github.com/pronayguha13)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronayguha13&layout=compact&langs_count=8&theme=Gradient)](https://github.com/pronayguha13)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pronayguha13&repo=Course-Match&show_icons=true&theme=vue)](https://github.com/pronayguha13/Course-Match)
@@ -31,7 +33,3 @@
   <a href="https://www.linkedin.com/in/pronay-guha-730815193/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@pronay.guha"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </div>
-  
-> ## Profile Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pronayguha13&theme=dark)](https://git.io/streak-stats)
