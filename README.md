@@ -28,7 +28,7 @@
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/pronay-guha-730815193/"><img src = "https://img.shields.io/badge/-Linkedin-ED8B00?style=social&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/pronay-guha-730815193/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <img src = "https://img.shields.io/badge/-Medium-ED8B00?style=social&logo=medium&logoColor=white">(https://medium.com/@pronay.guha)
 
