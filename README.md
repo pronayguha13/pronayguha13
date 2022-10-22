@@ -27,13 +27,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pronayguha13&repo=react-music-player&show_icons=true&theme=vue)](https://github.com/pronayguha13/react-music-player)
 
 ## Connect with me
-
-<a href="https://www.linkedin.com/in/pronay-guha-730815193/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<img src = "https://img.shields.io/badge/-Medium-ED8B00?style=social&logo=medium&logoColor=white">(https://medium.com/@pronay.guha)
-
-<br />
-
+<div style="flex">
+  <a href="https://www.linkedin.com/in/pronay-guha-730815193/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@pronay.guha"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</div>
+  
 > ## Profile Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pronayguha13&theme=dark)](https://git.io/streak-stats)
