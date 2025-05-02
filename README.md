@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pronay</h1>
-<h3 align="center">A passionate frontend developer from India, Frontend lead for a fortune 100 organisation</h3>
+<h3 align="center">A passionate frontend developer from India, specializes in Frontend development with React, Vue, Typescript</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronayguha13" alt="pronayguha13" /></a> </p>
 
